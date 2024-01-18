@@ -1,0 +1,18 @@
+:root´{
+    --black: #000000;
+    --violet:#78288C;
+    --blue:#0000ff;
+    --sw:24px;
+}
+button {
+    
+    width: 300px;
+    height: 80px;
+    font-family: Roboto, sans-serif;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: var(--sm);
+    background-color: var(--violet);
+
+}
